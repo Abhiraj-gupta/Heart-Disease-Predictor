@@ -7,11 +7,11 @@ Dataset
 Dataset used: heart.csv
 
 Contains 303 rows and 14 features, including:
-age
-sex
-cp – chest pain type
-trestbps – resting blood pressure
-chol – cholesterol level
-thalach – max heart rate achieved
-oldpeak – ST depression induced
-target – 1 means heart disease, 0 means healthy
+age,
+sex,
+cp – chest pain type,
+trestbps – resting blood pressure,
+chol – cholesterol level,
+thalach – max heart rate achieved,
+oldpeak – ST depression induced,
+target – 1 means heart disease, 0 means healthy.
